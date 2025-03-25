@@ -19,9 +19,9 @@ audience, and after the event, we took the time to refactor the code to TypeScri
 
 Easily one of the most fun development projects I've been part of!
 
-* [GitHub](https://github.com/wunderdogsw/go-23-app)
-* [Demo](https://wunderdogsw.github.io/go-23-app/) - make sure to enable camera and step back so that your pose is detected
 * [Dev.to post](https://dev.to/idosius/the-bubble-figure-integrating-tensorflowjs-with-threejs-and-cannon-es-to-create-interactive-art-b8e)
+* [Demo](https://wunderdogsw.github.io/go-23-app/) - make sure to enable camera and step back so that your pose is detected
+* [GitHub](https://github.com/wunderdogsw/go-23-app)
 
 ## Klepto
 
@@ -29,9 +29,9 @@ While on the bench at Wunderdog, I wanted to learn new technologies. So, I built
 
 This MVP is built with Svelte, SvelteKit, MongoDB, and Svelte Material UI. During the process, I also implemented user authentication using JWT.
 
-* [GitHub](https://github.com/wunderdogsw/klepto)
-* [Demo](https://klepto.vercel.app/)
 * [Dev.to post](https://dev.to/idosius/mongodb-atlas-hackathon-2022-on-dev-4a4i)
+* [Demo](https://klepto.vercel.app/)
+* [GitHub](https://github.com/wunderdogsw/klepto)
 
 ## gatsby-plugin-automatic-redirects
 
@@ -41,6 +41,6 @@ This is a problem—not only because previous SEO scores may be lost, but also b
 
 Seeing that there was no solution to this issue, I developed a Gatsby plugin that automatically creates redirects when slugs or paths change.
 
-* [npm](https://www.npmjs.com/package/gatsby-plugin-automatic-redirects)
-* [GitHub](https://github.com/wunderdogsw/gatsby-plugin-automatic-redirects)
 * [Blog post](https://www.wunderdog.io/blog/how-to-manage-redirects-in-gatsby-automatically)
+* [GitHub](https://github.com/wunderdogsw/gatsby-plugin-automatic-redirects)
+* [npm](https://www.npmjs.com/package/gatsby-plugin-automatic-redirects)
