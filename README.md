@@ -1,4 +1,4 @@
-# Ido Schacham - My Open Source Projects
+# My Open Source Projects - Ido Schacham
 
 Well, hello there! 👋 Here are some open source projects that I worked on.
 
