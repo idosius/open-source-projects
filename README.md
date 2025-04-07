@@ -2,6 +2,22 @@
 
 Well, hello there! 👋 Here are some open source projects that I worked on.
 
+## Wörtilizer
+
+Wörtilizer is a React + Next.js open source web app to help you build your German vocabulary and remember noun articles, wort für wort.
+
+I built it to solve my own problem and also exercise some coding while being in between jobs.
+
+* [Demo](https://wortilizer.vercel.app/)
+* [GitHub](https://wortilizer.vercel.app/)
+
+## Probable Waddle
+
+Web app for using the William S. Burroughs cut-up technique to generate creative texts directly in your browser, another small in between jobs project.
+
+* [Demo](https://probable-waddle-beryl.vercel.app/)
+* [GitHub](https://github.com/idosius/probable-waddle)
+
 ## The Bubble Figure
 
 When Wunderdog participated in the Grand One 2023 design awards in Helsinki, we wanted to create an interactive art installation. 
