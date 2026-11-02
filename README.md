@@ -8,6 +8,7 @@ Wörtilizer is a React + Next.js open source web app to help you build your Germ
 
 I built it to solve my own problem and also exercise some coding while being in between jobs.
 
+* [Dev.to post](https://dev.to/idosius/wortilizer-10l2)
 * [Demo](https://wortilizer.vercel.app/)
 * [GitHub](https://wortilizer.vercel.app/)
 
