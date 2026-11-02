@@ -58,6 +58,5 @@ This is a problem—not only because previous SEO scores may be lost, but also b
 
 Seeing that there was no solution to this issue, I developed a Gatsby plugin that automatically creates redirects when slugs or paths change.
 
-* [Blog post](https://www.wunderdog.io/blog/how-to-manage-redirects-in-gatsby-automatically)
 * [GitHub](https://github.com/wunderdogsw/gatsby-plugin-automatic-redirects)
 * [npm](https://www.npmjs.com/package/gatsby-plugin-automatic-redirects)
