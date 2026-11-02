@@ -37,7 +37,6 @@ audience, and after the event, we took the time to refactor the code to TypeScri
 Easily one of the most fun development projects I've been part of!
 
 * [Dev.to post](https://dev.to/idosius/the-bubble-figure-integrating-tensorflowjs-with-threejs-and-cannon-es-to-create-interactive-art-b8e)
-* [Demo](https://wunderdogsw.github.io/go-23-app/) - make sure to enable camera and step back so that your pose is detected
 * [GitHub](https://github.com/wunderdogsw/go-23-app)
 
 ## Klepto
